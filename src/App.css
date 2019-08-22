@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Karla&display=swap');
+.App {
+    text-align: center;
+    font-family: 'Karla', sans-serif;
+}
+
+.Results {
+    background-color: #B1D5E0;
+    font-family: 'Karla', sans-serif;
+}
+
+.Form {
+    margin-top: -30px;
+    background-color: #83A7B3;
+    font-family: 'Karla', sans-serif;
+    color: white;
+}
+
+.App-header {
+    background-color: #A0CCDA;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+}
