@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/TeachMeHowTo/static/css/main.8487fe1f.chunk.css",
+    "main.js": "/TeachMeHowTo/static/js/main.51b733b7.chunk.js",
+    "main.js.map": "/TeachMeHowTo/static/js/main.51b733b7.chunk.js.map",
+    "runtime~main.js": "/TeachMeHowTo/static/js/runtime~main.3f7571cc.js",
+    "runtime~main.js.map": "/TeachMeHowTo/static/js/runtime~main.3f7571cc.js.map",
+    "static/js/2.49072c96.chunk.js": "/TeachMeHowTo/static/js/2.49072c96.chunk.js",
+    "static/js/2.49072c96.chunk.js.map": "/TeachMeHowTo/static/js/2.49072c96.chunk.js.map",
+    "index.html": "/TeachMeHowTo/index.html",
+    "precache-manifest.51e789eea2acc30acd730686af89deaa.js": "/TeachMeHowTo/precache-manifest.51e789eea2acc30acd730686af89deaa.js",
+    "service-worker.js": "/TeachMeHowTo/service-worker.js",
+    "static/css/main.8487fe1f.chunk.css.map": "/TeachMeHowTo/static/css/main.8487fe1f.chunk.css.map",
+    "static/media/Cogo-Connect-Icon.png": "/TeachMeHowTo/static/media/Cogo-Connect-Icon.a33f8036.png",
+    "static/media/icon_slack_hash_colored.png": "/TeachMeHowTo/static/media/icon_slack_hash_colored.6767d9e0.png",
+    "static/media/logo.svg": "/TeachMeHowTo/static/media/logo.5d5d9eef.svg"
+  }
+}
